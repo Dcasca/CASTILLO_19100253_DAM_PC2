@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1042546581103",
+    "project_id": "pc2-db",
+    "storage_bucket": "pc2-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042546581103:android:156f8ff73db335f355b79a",
+        "android_client_info": {
+          "package_name": "com.example.castillo_19100253_dam_pc2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmZekWvLYW6b85YWyLiz3ngXVTtf6-vbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

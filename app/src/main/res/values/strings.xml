@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CASTILLO_19100253_DAM_PC2</string>
+    <string name="nombreEquipo">Nombre del equipo</string>
+    <string name="anioFun">Año de fundación </string>
+    <string name="numTitu">Número de Titulos Ganados</string>
+    <string name="urlIma">URL de la imagen</string>
+    <string name="ward">Guardar</string>
+
+
+</resources>
